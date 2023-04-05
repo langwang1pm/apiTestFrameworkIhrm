@@ -1,0 +1,38 @@
+[
+  {
+    "desc": "必传参数",
+    "add_json": {
+      "username": "zhangsan001",
+      "mobile": "13800000002",
+      "workNumber": "1001"
+    },
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "desc": "必传参数",
+    "add_json": {
+      "username": "zhangsan001",
+      "mobile": "13800000002",
+      "workNumber": "1001"
+    },
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  {
+    "desc": "必传参数",
+    "add_json": {
+      "username": "zhangsan001",
+      "mobile": "13800000002",
+      "workNumber": "1001"
+    },
+    "status_code": 200,
+    "success": true  ,
+    "code": 10000,
+    "message": "操作成功"
+  }
+]

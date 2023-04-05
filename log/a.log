@@ -1,0 +1,15 @@
+2023-04-02 23:48:33,563 WARNING [logging_code.py(<module>:64)] - This is test warning log
+2023-04-02 23:48:33,564 ERROR [logging_code.py(<module>:65)] - This is test error log
+2023-04-02 23:48:33,564 CRITICAL [logging_code.py(<module>:66)] - This is test critical log
+2023-04-02 23:48:34,565 WARNING [logging_code.py(<module>:64)] - This is test warning log
+2023-04-02 23:48:34,566 ERROR [logging_code.py(<module>:65)] - This is test error log
+2023-04-02 23:48:34,566 CRITICAL [logging_code.py(<module>:66)] - This is test critical log
+2023-04-02 23:48:35,567 WARNING [logging_code.py(<module>:64)] - This is test warning log
+2023-04-02 23:48:35,567 ERROR [logging_code.py(<module>:65)] - This is test error log
+2023-04-02 23:48:35,567 CRITICAL [logging_code.py(<module>:66)] - This is test critical log
+2023-04-02 23:48:36,569 WARNING [logging_code.py(<module>:64)] - This is test warning log
+2023-04-02 23:48:36,569 ERROR [logging_code.py(<module>:65)] - This is test error log
+2023-04-02 23:48:36,569 CRITICAL [logging_code.py(<module>:66)] - This is test critical log
+2023-04-02 23:48:37,571 WARNING [logging_code.py(<module>:64)] - This is test warning log
+2023-04-02 23:48:37,571 ERROR [logging_code.py(<module>:65)] - This is test error log
+2023-04-02 23:48:37,571 CRITICAL [logging_code.py(<module>:66)] - This is test critical log
